@@ -23,7 +23,7 @@ The model is trained using the **TensorFlow/Keras** library and consists of 3 la
 
 ## 📂 File Structure
 
-- `mnist_classification.py` → Main code file
+- `project.py` → Main code file
 - `README.md` → Project documentation
 
 ---
@@ -41,7 +41,7 @@ pip install tensorflow numpy matplotlib
 You can execute the Python file using the following command in the terminal or command prompt:
 
 ```bash
-python mnist_classification.py
+python project.py
 ```
 
 ---
